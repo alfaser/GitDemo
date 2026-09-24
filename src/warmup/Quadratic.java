@@ -24,6 +24,8 @@ public class Quadratic {
         System.out.println("For the equation x^2 - 4x + 3 = 0, the possible solutions are:");
         Set<Integer> result = roots(1, -4, 3);
         System.out.println(result);
+        System.out.println("Hola");
+        
     }
 
     /* Copyright (c) 2016 MIT 6.005 course staff, all rights reserved.
