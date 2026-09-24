@@ -25,7 +25,11 @@ public class Quadratic {
         Set<Integer> result = roots(1, -4, 3);
         System.out.println(result);
         System.out.println("Hola esta se encuentra en git ej");
-        
+        ramas();
+    }
+    
+    public static void ramas() {
+        System.out.println("rama developer");
     }
 
     /* Copyright (c) 2016 MIT 6.005 course staff, all rights reserved.
