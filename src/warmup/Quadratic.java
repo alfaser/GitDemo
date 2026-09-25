@@ -26,10 +26,20 @@ public class Quadratic {
         System.out.println(result);
         System.out.println("Hola esta se encuentra en git ej");
         ramas();
+        cambios();
+        arbol();
+        
     }
     
     public static void ramas() {
         System.out.println("rama developer");
+    }
+
+       public static void cambios() {
+        System.out.println("cambios");
+    }
+       public static void arbol() {
+        System.out.println("arbol");
     }
 
     /* Copyright (c) 2016 MIT 6.005 course staff, all rights reserved.
